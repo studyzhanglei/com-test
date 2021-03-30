@@ -1,0 +1,15 @@
+{
+    "name": "tom-chen/public-1",
+    "authors": [
+        {
+            "name": "tom",
+            "email": "494595280@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ya\\chen\\": "src"
+        }
+    }
+}
